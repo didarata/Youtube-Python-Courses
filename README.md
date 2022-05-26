@@ -1,2 +1,2 @@
 # Youtube-Python-Courses
-Documentation of Youtube courses and projects i did.
+Place where ill be storing my Youtube courses project and files. Those are important notes, information and projects i did while taking the Youtube Python courses and projects.
